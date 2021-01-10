@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="string1_for_provide">String1 который мы проводим</string>
+    <string name="string2_for_provide">String2 который мы проводим</string>
+</resources>
