@@ -1,4 +1,4 @@
-package com.sideki.testapp
+package com.sideki.testapp.views
 
 import androidx.hilt.lifecycle.ViewModelInject
 import androidx.lifecycle.ViewModel

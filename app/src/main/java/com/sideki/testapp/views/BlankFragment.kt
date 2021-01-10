@@ -1,10 +1,11 @@
-package com.sideki.testapp
+package com.sideki.testapp.views
 
 import android.os.Bundle
 import android.view.View
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
+import com.sideki.testapp.R
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

@@ -1,4 +1,4 @@
-package com.sideki.testapp
+package com.sideki.testapp.di
 
 import dagger.Module
 import dagger.Provides
